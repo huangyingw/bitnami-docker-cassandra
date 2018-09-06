@@ -23,3 +23,4 @@
 "./includefile.conf"
 "./prunefile.conf"
 "./prunefix.conf"
+"./run.rsh"
